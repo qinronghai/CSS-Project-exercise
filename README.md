@@ -12,6 +12,12 @@ Tags: css, html
     
    [![7cGI6H.md.png](https://s4.ax1x.com/2022/01/20/7cGI6H.md.png)](https://imgtu.com/i/7cGI6H)
    [![7cGoXd.png](https://s4.ax1x.com/2022/01/20/7cGoXd.png)](https://imgtu.com/i/7cGoXd)
+   
+- 完成对比： 
+
+  [![7cUFr4.md.png](https://s4.ax1x.com/2022/01/20/7cUFr4.md.png)](https://imgtu.com/i/7cUFr4)
+  
+  注：字体上没有细抠。
     
 - 项目总结：
     
