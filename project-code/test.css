@@ -1,0 +1,137 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id 3153299 */
+  src: url('//at.alicdn.com/t/font_3153299_ddcq8vwzmvp.woff2?t=1642658605370') format('woff2'), url('//at.alicdn.com/t/font_3153299_ddcq8vwzmvp.woff?t=1642658605370') format('woff'), url('//at.alicdn.com/t/font_3153299_ddcq8vwzmvp.ttf?t=1642658605370') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-yanjing:before {
+  content: "\e62b";
+  color: #fff;
+  font-size: 30px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: hsl(217, 54%, 11%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 300px;
+  height: 510px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 12px;
+}
+.card .img__wrap {
+  position: relative;
+  display: block;
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card .img__wrap .card__img--active {
+  border-radius: 8px;
+  width: 260px;
+  height: 260px;
+}
+.card .img__wrap .marsk {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 260px;
+  height: 260px;
+  border-radius: 8px;
+}
+.card .img__wrap .marsk i {
+  display: none;
+}
+.card .img__wrap .marsk:hover {
+  background-color: hsla(178, 100%, 50%, 0.5);
+}
+.card .img__wrap .marsk:hover i {
+  display: block;
+}
+.card__title {
+  margin-left: 16px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 600;
+}
+.card__title:hover {
+  color: hsl(178, 100%, 50%);
+}
+.card__desc {
+  margin: 18px 20px 0px 20px;
+  color: #8bacd9;
+  font-weight: 400;
+  font-size: 14px;
+}
+.card .card__tab {
+  display: flex;
+  margin: 0 18px 0 0;
+  padding-bottom: 5px;
+  justify-content: space-between;
+}
+.card .card__tab__left {
+  margin: 18px 0 18px 20px;
+  display: flex;
+  color: hsl(178, 100%, 50%);
+}
+.card .card__tab__left .icon {
+  height: 16px;
+}
+.card .card__tab__left .price {
+  margin-left: 8px;
+  font-size: 13px;
+  font-weight: bold;
+}
+.card .card__tab__rigth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  font-weight: 400;
+  color: #8bacd9;
+}
+.card .card__tab__rigth .icon {
+  width: 15px;
+  height: 15px;
+  margin-right: 8px;
+}
+.card .card__Author {
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  margin: 0 20px;
+  border-top: 1px solid hsl(215, 32%, 27%);
+}
+.card .card__Author__img {
+  width: 25px;
+  height: 25px;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
+}
+.card .card__Author__origin {
+  margin-left: 14px;
+  color: #979696;
+  font-size: 14px;
+  padding-right: 5px;
+}
+.card .card__Author .text {
+  font-size: 14px;
+  color: #c6d0dd;
+}
+.card .card__Author .text:hover {
+  color: hsl(178, 100%, 50%);
+}
