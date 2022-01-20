@@ -10,9 +10,9 @@ Tags: css, html
 
 - 项目目录：
     
-    ![Untitled](NFT%20preview%20card%20component%206caf8c7cf6384b21830758551307eba7/Untitled.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8bf6169e-ac55-4398-a52d-d90b75d430ee/Untitled.png)
     
-    ![Untitled](NFT%20preview%20card%20component%206caf8c7cf6384b21830758551307eba7/Untitled%201.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e17205be-45ed-4027-b35d-8ded13c46d47/Untitled.png)
     
 - 项目总结：
     
