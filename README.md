@@ -10,8 +10,8 @@ Tags: css, html
 
 - 项目目录：
     
-        [img01](https://imgtu.com/i/7cGI6H)
-        [img02](https://imgtu.com/i/7cGoXd)
+   [img01](https://imgtu.com/i/7cGI6H)
+   [img02](https://imgtu.com/i/7cGoXd)
     
 - 项目总结：
     
