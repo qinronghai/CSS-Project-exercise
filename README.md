@@ -6,12 +6,12 @@ Tags: css, html
     
     [Frontend Mentor | NFT preview card component coding challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
     
-- 项目代码（已经上传GitHub）：
+- 项目代码（已经上传GitHub）
 
 - 项目目录：
     
-   [img01](https://imgtu.com/i/7cGI6H)
-   [img02](https://imgtu.com/i/7cGoXd)
+   [![7cGI6H.md.png](https://s4.ax1x.com/2022/01/20/7cGI6H.md.png)](https://imgtu.com/i/7cGI6H)
+   [![7cGoXd.png](https://s4.ax1x.com/2022/01/20/7cGoXd.png)](https://imgtu.com/i/7cGoXd)
     
 - 项目总结：
     
