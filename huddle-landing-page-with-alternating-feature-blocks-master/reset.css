@@ -1,0 +1,113 @@
+/* css重置stylesheet */
+
+/* 大型网站为了加载速度才这样，平常写小案列或者项目直接使用通用符*即可 */
+/* body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+button,
+textarea,
+p,
+blockquote,
+th,
+td,
+strong {
+  padding: 0;
+  margin: 0;
+  font-family: "Microsoft YaHei", sans-serif, Arial;
+} */
+
+* {
+    padding: 0;
+    margin: 0;
+    /* font-family:'Courier New', Courier, monospace; */
+    box-sizing: border-box;
+}
+/*为table标签设置：合并单元格之间的边框，边框间距为0*/
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*为img标签设置0像素的边框（img标签在a标签当中时，默认会有蓝色边框）*/
+img {
+  border: 0;
+}
+
+/*为a标签设置初始样式，没有下划线，字体颜色为#000（黑色），在点击a标签时没有外侧的高亮线（outline）*/
+a {
+  text-decoration: none;
+  color: #000;
+  outline: none;
+}
+
+/*为a标签的hover状态设置样式，出现下划线*/
+a:hover {
+  text-decoration: underline;
+}
+
+/*为var、em、strong元素设置字体样式为“正常”*/
+var,
+em,
+strong {
+  font-style: normal;
+}
+
+/*为em、strong、th、var元素设置字体样式为“继承”，字体粗细为“继承”（第8、9行的设置方式，相当于是先将网页中的所有的var、em、strong标签的字体样式去除，之后，再设置样式继承父级样式，这样能够保证其他标签中的var、em、strong标签的样式与其父级元素相同）*/
+em,
+strong,
+th,
+var {
+  font-style: inherit;
+  font-weight: inherit;
+}
+
+/*为li去除列表项的小标志*/
+li {
+  list-style: none;
+}
+
+/*为h1~h6的标签设置字体大小，均为父级元素的字体大小，且不做加粗处理（默认状态下不同的标题类元素大小不同，且均具有加粗效果）*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* font-size: 100%;
+  font-weight: normal; */
+}
+
+/*为input、button、textarea等元素设置字体类样式，字体的各种样式均继承父级样式*/
+input,
+button,
+textarea,
+select,
+optgroup,
+option {
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+}
+
+/* 去掉button的默认边框样式 */
+button {
+  border: none;
+}
